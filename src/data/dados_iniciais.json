@@ -1,50 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Voce Sabia ?",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Curiosidades",
         "url": "https://www.alura.com.br/cursos-online-front-end" 
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=YApuEWtG30w"
+          "titulo": "Fim do Mundo ??? De novo... #Você Sabia",
+          "url": "https://www.youtube.com/watch?v=tqX9lh4vFYw"
         },
         {
           "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "url": "https://www.youtube.com/watch?v=TJ94oWqoe3o"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "url": "https://www.youtube.com/watch?v=Ttao2GKmrlY"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "url": "https://www.youtube.com/watch?v=jbJYaHR04dw"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "url": "https://www.youtube.com/watch?v=ALc7PBojqkw"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "url": "https://www.youtube.com/watch?v=71fTV7VV_5A"
         },
         {
           "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "url": "https://www.youtube.com/watch?v=hlda8AdVIm0"
         },
         {
           "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "url": "https://www.youtube.com/watch?v=X2ZBaNnqXXg"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Curiosidades Sobre Tecnologia",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -53,23 +53,23 @@
       "videos": [
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "url": "https://www.youtube.com/watch?v=CzIla7Fyks8"
         },
         {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "url": "https://www.youtube.com/watch?v=9Pa-q2ydmSc"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "url": "https://www.youtube.com/watch?v=rp6triwCF7A"
         },
         {
           "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "url": "https://www.youtube.com/watch?v=YZqB3Kg3oAY"
         }, 
         {
           "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "url": "https://www.youtube.com/watch?v=lSEqe5PlGWE"
         }
       ]
     },
@@ -131,11 +131,11 @@
       "videos": [
         {
           "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "url": "https://www.youtube.com/watch?v=rQeprbw3lZE"
         },
         {
           "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "url": "https://www.youtube.com/watch?v=S62utrHF6_A"
         },
         {
           "titulo": "God of War 4",
@@ -143,7 +143,7 @@
         },
         {
           "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "url": "https://www.youtube.com/watch?v=rHEG2XBAOpE"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
