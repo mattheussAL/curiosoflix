@@ -10,19 +10,19 @@
       },
       "videos": [
         {
-          "titulo": "Fim do Mundo ??? De novo... #Você Sabia",
-          "url": "https://www.youtube.com/watch?v=tqX9lh4vFYw"
+          "titulo": "Bob Esponja Morreu ?? Entenda a História #ImersãoReat",
+          "url": "https://www.youtube.com/watch?v=XxHOS1cON5Q"
         },
         {
-          "titulo": "SEO com React",
+          "titulo": "O Sol Está se Aproximando ??",
           "url": "https://www.youtube.com/watch?v=TJ94oWqoe3o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "Um Meteoro Caiu no Brasil",
           "url": "https://www.youtube.com/watch?v=Ttao2GKmrlY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "Pirâmides",
           "url": "https://www.youtube.com/watch?v=jbJYaHR04dw"
         },
         {
@@ -47,7 +47,7 @@
       "titulo": "Curiosidades Sobre Tecnologia",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Mundoda Tecnologia",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -102,39 +102,47 @@
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra": {
+        "text": "Maiores Lançamentos",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Jurassic World: Acampamento Cretácio",
+          "url": "https://www.youtube.com/watch?v=6usZtGF92RU"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "A ilha da Fantasia",
+          "url": "https://www.youtube.com/watch?v=adkmIMpHyfU"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Super Conectados",
+          "url": "https://www.youtube.com/watch?v=Tt_7dgYbp3k"
         },
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=LBRJhII2wu8"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Curiosidades sobre o mundo dosGames",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Melhores Games da temporada",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
+          "titulo": "BRKSEDU",
           "url": "https://www.youtube.com/watch?v=rQeprbw3lZE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
+          "titulo": "Crash Bandicoot",
           "url": "https://www.youtube.com/watch?v=S62utrHF6_A"
         },
         {
@@ -142,7 +150,7 @@
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
+          "titulo": "Rogue Company",
           "url": "https://www.youtube.com/watch?v=rHEG2XBAOpE"
         },
         {
@@ -152,32 +160,44 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Curiosidades sobre React",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Aprenda mais sobre React com os Melhores",
+        "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
       },
       "videos": [
         {
           "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O que é ReactJS",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
         },
         {
           "titulo": "Frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "O que é ReactJS",
+          "url": "https://www.youtube.com/watch?v=C80sX3uS5oA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Organizaçãode Pastas",
+          "url": "https://www.youtube.com/watch?v=X2RKRKdqqwM"
+        },
+        {
+          "titulo": "Styled-Components",
+          "url": "https://www.youtube.com/watch?v=R3S8DEzEn6s&t=7s"
+        },
+        {
+          "titulo": "O que é ReactJS",
+          "url": "https://www.youtube.com/watch?v=HGrXz6vHngI"
+        },
+        {
+          "titulo": "Deploy daAplicação",
+          "url": "https://www.youtube.com/watch?v=-j7vLmBMsEU"
         }
       ]
     }
